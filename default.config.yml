@@ -6,8 +6,6 @@ general:
     user_name: "{{ lookup('env', 'USER') }}"
   
 configure_dotfiles: yes
-configure_sudoers: yes
-configure_terminal: yes
 
 dotfiles_repo: git@github.com:dominicgunn/dotfiles.git
 dotfiles_repo_accept_hostkey: yes
