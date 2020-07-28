@@ -13,6 +13,7 @@ homebrew_installed_packages:
   - jenv
   - kubectl
   - kubectx
+  - minikube
   - nmap
   - node
   - nvm

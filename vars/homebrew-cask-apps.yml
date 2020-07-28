@@ -6,7 +6,6 @@ homebrew_cask_apps:
   - firefox
   - iterm2
   - jetbrains-toolbox
-  - minikube
   - postman
   - powershell
   - slack
