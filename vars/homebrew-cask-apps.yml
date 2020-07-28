@@ -1,0 +1,16 @@
+---
+homebrew_cask_appdir: /Applications
+homebrew_cask_apps:
+  - chromedriver
+  - docker
+  - firefox
+  - iterm2
+  - jetbrains-toolbox
+  - minikube
+  - postman
+  - powershell
+  - slack
+  - spotify
+  - visual-studio-code
+  - whatsapp
+  - zoomus

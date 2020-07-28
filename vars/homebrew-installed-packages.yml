@@ -1,0 +1,28 @@
+---
+homebrew_installed_packages:
+  - autoconf
+  - awscli
+  - aws-okta
+  - bash-completion
+  - git
+  - github/gh/gh
+  - go
+  - gpg
+  - httpie
+  - iperf
+  - jenv
+  - kubectl
+  - kubectx
+  - nmap
+  - node
+  - nvm
+  - php
+  - python
+  - ssh-copy-id
+  - tfenv
+  - openssl
+  - wget
+  - zsh
+  - zsh-autosuggestions
+  - zsh-completions
+  - zsh-syntax-highlighting
