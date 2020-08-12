@@ -8,12 +8,14 @@ homebrew_installed_packages:
   - github/gh/gh
   - go
   - gpg
+  - helm
   - httpie
   - iperf
   - jenv
   - jq
   - kubectl
   - kubectx
+  - libpq
   - minikube
   - nmap
   - node
