@@ -20,11 +20,12 @@ homebrew_installed_packages:
   - nmap
   - node
   - nvm
-  - php
+  - packr
   - python
   - ssh-copy-id
   - tfenv
   - openssl
+  - watch
   - wget
   - zsh
   - zsh-autosuggestions
