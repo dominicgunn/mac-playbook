@@ -1,9 +1,12 @@
 ---
 homebrew_cask_appdir: /Applications
 homebrew_cask_apps:
+  - adoptopenjdk
+  - apache-directory-studio
   - chromedriver
   - docker
   - firefox
+  - google-chrome
   - iterm2
   - jetbrains-toolbox
   - postman

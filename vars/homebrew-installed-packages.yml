@@ -17,14 +17,17 @@ homebrew_installed_packages:
   - kubectx
   - libpq
   - minikube
+  - mysql
   - nmap
   - node
   - nvm
+  - opa
   - packr
   - python
   - ssh-copy-id
   - tfenv
   - openssl
+  - velero
   - watch
   - wget
   - zsh
