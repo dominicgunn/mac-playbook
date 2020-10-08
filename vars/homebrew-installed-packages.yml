@@ -15,6 +15,7 @@ homebrew_installed_packages:
   - jq
   - kubectl
   - kubectx
+  - kubectl-debug
   - libpq
   - minikube
   - mysql
